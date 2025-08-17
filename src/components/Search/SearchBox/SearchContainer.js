@@ -11,9 +11,9 @@ const SearchContainer = (props) => {
       <div className="container-fluid" id="mp-search-container">
         <div className="logo-wrapper">
           <img
-            // src="assets/images/navbar/freepik-no_bg.png"
-            src="assets/images/navbar/freepik-no_bg.png"
-            alt="freepik logo"
+            // src="assets/images/navbar/zila-no_bg.png"
+            src="assets/images/navbar/zila-no_bg.png"
+            alt="GraphicZila logo"
           />
         </div>
         <h1 className="h1 text-center">
@@ -47,7 +47,7 @@ const SearchContainer = (props) => {
       <div className="row">
         <div className="col-3 col-sm-2">
           <Link to="/" className="d-flex align-items-center justify-content-center w-100 h-100">
-            <img className="h-100" src="/assets/images/icons/freepik-full-logo.PNG" alt="freepik icon" />
+            <img className="h-100" src="/assets/images/icons/Zila-full-logo.jpeg" alt="GraphicZila icon" />
           </Link>
         </div>
         <div className="col-9 col-sm-10">

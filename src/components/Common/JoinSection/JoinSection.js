@@ -5,11 +5,11 @@ const Join = () => {
     <div className="container" id="join-section">
       <div className="content">
         <p className="title">
-          Join Freepik's <strong>creator community</strong>
+          Join GraphicZila's <strong>creator community</strong>
         </p>
         <p className="text">
           Behind every stock image there's a creative mind.You can also create
-          content and sell it on Freepik
+          content and sell it on GraphicZila
         </p>
         <Link
           to="/register"
@@ -21,7 +21,7 @@ const Join = () => {
       </div>
       <div className="photo">
         <div className="image-wrapper">
-          <img src="/assets/images/Join-section/community.png" alt="Join Freepik" loading="lazy"></img>
+          <img src="/assets/images/Join-section/community.png" alt="Join GraphicZila" loading="lazy"></img>
         </div>
       </div>
     </div>

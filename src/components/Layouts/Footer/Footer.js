@@ -86,9 +86,9 @@ const Footer = (props) => {
 							{/*Footer-button*/}
 
 							<div className="footer-button">
-								<img src="https://freepik.cdnpk.net/img/logos/freepikcompany-footer.svg" alt="Freepik Company" width="191" height="27"></img>
+								<img src="../../assets/images/icons/label.svg" alt="GraphicZila" width="191" height="27"></img>
 								<p className="text-xs-center">
-									Copyright ©  2010-2022 Freepik Company S.L. All rights reserved.
+									Copyright ©  2025-26 GraphicZila All rights reserved.
 								</p>
 							</div>
               

@@ -37,7 +37,7 @@ const MoreContent = () => {
             tools: [
                 {
                     name: "Wepick",
-                    desc: "Edit your Freepik templates",
+                    desc: "Edit your GraphicZila templates",
                     url: "https://www.flaticon.com/",
                 },
             ],
@@ -45,7 +45,7 @@ const MoreContent = () => {
         {
             apps_and_plugins: [
                 {
-                    name: "Freepik for Figma",
+                    name: "GraphicZila for Figma",
                     desc: "Images for yout Figma projects",
                     url: "https://www.flaticon.com/",
                 },

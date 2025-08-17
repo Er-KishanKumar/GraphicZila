@@ -20,7 +20,7 @@ const Enhance = () => {
             <img src="/assets/images/Enhance/index.2.jpg" class="card-img-top" id="Enhance-img" alt="crown"></img>
             <div className="card-body">
               <h5 className="card-title" id="symbolTitle">Premium content</h5>
-              <p className="card-text" id="symbolText">Access to Freepik and Flaticon Premium content. Download exclusive editable images and more than 7.7MM vector icons, stickers, and logos.</p>
+              <p className="card-text" id="symbolText">Access to GraphicZila and Flaticon Premium content. Download exclusive editable images and more than 7.7MM vector icons, stickers, and logos.</p>
             </div>
           </div>
         </div>

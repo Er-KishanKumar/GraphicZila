@@ -7,8 +7,8 @@ const Calender = () => {
         <div className="cal-info">
           <p className="cal-subtitle">The year of the rabbit has come</p>
           <h3 className="cal-title">
-            Hop on for <span className="gold-text">Chinese New Year</span> with
-            Freepik
+            Hop on for <span className="gold-text"> New Year</span> with
+            GraphicZila
           </h3>
           <Link to="calender" className="cal-btn">
             Celebrate now
@@ -16,7 +16,7 @@ const Calender = () => {
         </div>
         <div className="cover-image">
           <div className="cover-wrapper">
-            <img src="assets/images/calender/cover.webp" alt="caover-img" />
+            <img src="assets/images/calender/cover.jpg" alt="caover-img" />
           </div>
         </div>
       </div>

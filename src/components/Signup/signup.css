@@ -1,6 +1,7 @@
 #Signup{
   padding: 0;
   max-height:100%;
+  overflow: hidden;
 }
 #Sign-up-photo {
   position: relative;
@@ -9,9 +10,9 @@
   padding: 0;
 }
 .signup-img{
-  padding: 0;
+  padding-top: 20px;
   width: 100%;
-  height: max-content;
+  height: 95%;
   max-height: 100vh;
 }
 #Sign-up-form {

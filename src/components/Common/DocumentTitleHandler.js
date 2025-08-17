@@ -3,7 +3,7 @@ import { useEffect } from "react";
 const DocumentTitleHandler = (props) => {
 
     useEffect(() => {
-        document.title = `Seepik | ${props.pageTitle}`;
+        document.title = `GraphicZila | ${props.pageTitle}`;
     }, [])
 
     return(<></>);

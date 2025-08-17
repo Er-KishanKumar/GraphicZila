@@ -16,7 +16,7 @@ const TrendingCategories = (props) => {
   return (
     <section className="container-fluid" id="trending">
       <h2 id="explore-title">
-        <strong>Explore</strong> trending categories on Freepik
+        <strong>Explore</strong> trending categories on GraphicZila
       </h2>
       <p className="text-muted">
         Check what's popular on Freepik and make your project look trendy and

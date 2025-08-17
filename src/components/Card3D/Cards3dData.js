@@ -3,8 +3,8 @@ export const Cards3dData = [
   {
     image: "abacus-001-beauty.webp",
     name: "Abacus 001",
-    avatar: "freepik.jpg",
-    owner: "Freepik",
+    avatar: "zila.jpg",
+    owner: "GraphicZila",
     link: "/",
   },
   {

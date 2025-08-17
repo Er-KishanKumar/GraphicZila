@@ -55,15 +55,18 @@
 		}
 	}
 	.cover-image{
-		height: 450px;
+		height: 400px;
     	width: 100%;
+		
 		.cover-wrapper{
 			position: relative;
 			img{
-				margin-left:calc( 100% - (100% / 2) + 50px) ;
+				// margin-left:calc( 100% - (100% / 2) + 50px) ;
+				margin-left: -30%;
 				position: absolute;
-				min-height: 450px;
+				min-height: 400px;
 				min-width: fit-content;
+				
 			}
 	}
 	}

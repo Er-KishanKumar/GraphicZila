@@ -22,9 +22,9 @@
          },
          {
              id: 4,
-             alt: "freepik images",
+             alt: "GraphicZila images",
              link: "creator-collection-img3.png",
-             ctext: "freepik images",
+             ctext: "GraphicZila images",
               cresources: "25 resources",
           },
        

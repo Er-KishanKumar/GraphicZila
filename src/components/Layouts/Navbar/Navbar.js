@@ -232,7 +232,7 @@ const Navbar = (props) => {
                     ) : null}
                     <li>
                       <div className="anchor-rep">
-                        <a href="https://contributor.freepik.com/">
+                        <a href="https://pecseo.com/">
                           Sell content
                         </a>
                       </div>
@@ -250,7 +250,7 @@ const Navbar = (props) => {
                   <Link to="/">
                     <img
                       className="nav-logo"
-                      src={"/assets/images/navbar/freepik-no_bg.png"}
+                      src={"/assets/images/navbar/zila-no_bg.png"}
                       alt="logo"
                     />
                   </Link>
@@ -378,7 +378,7 @@ const Navbar = (props) => {
                     <ul>
                       <li>
                         <div className="anchor-rep">
-                          <a href="https://contributor.freepik.com/">
+                          <a href="https://pecseo.com/">
                             Sell content
                           </a>
                         </div>

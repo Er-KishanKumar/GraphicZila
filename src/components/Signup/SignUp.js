@@ -9,21 +9,21 @@ const SignUp = () => {
         <nav className="col-lg-8" id="Sign-up-photo">
           <img
             className="signup-img"
-            src="/assets/images/loginsignup/3.jpeg"
+            src="/assets/images/loginsignup/3.jpg"
             alt={"baby photos"}
           />
           <div className="signup-imgby">
             Image by
             <Link to={"/"}>
-              <strong>freepik</strong>
+              <strong>GraphicZila</strong>
             </Link>
           </div>
         </nav>
         <nav className="col-lg-4" id="Sign-up-form">
           <img
             className="signup-freepik"
-            src="/assets/images/loginsignup/freepiklogo.png"
-            alt="freepik logo"
+            src="/assets/images/loginsignup/zilalogo.jpeg"
+            alt="GraphicZila logo"
           />
           <p className="h4" id="sign-up">
             Create an account
@@ -50,12 +50,12 @@ const SignUp = () => {
                 className="newscheckbox"
               ></input>
               <p className="freepik-news">
-                I do not wish to receive news and promotions from Freepik
+                I do not wish to receive news and promotions from GraphicZila
                 Company by email.
               </p>
             </nav>
               <p className="signupTerms text-muted">
-                By continuing, you agree to Freepik Company’s Terms of Use and
+                By continuing, you agree to GraphicZila Company’s Terms of Use and
                 Privacy Policy.
               </p>
           </nav>
@@ -71,8 +71,8 @@ const SignUp = () => {
             <Link to={"/"}>
               <img
                 className="freepikcompany"
-                src="../../assets/images/loginsignup/freepik-company.png"
-                alt="By freepik company"
+                src="../../assets/images/loginsignup/zila-company.png"
+                alt="By GraphicZila"
               ></img>
             </Link>
           </nav>

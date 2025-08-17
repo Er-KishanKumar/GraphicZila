@@ -38,10 +38,10 @@ const DiscountModal = () => {
               <img
                 className="d-inline-block"
                 id="freepik-icon"
-                src="/assets/images/icons/freepik-white-icon.png"
-                alt="freepik icon"
+                src="/assets/images/icons/Zila-white-icon.png"
+                alt="GraphicZila icon"
               />
-              <span>freepik</span>
+              <span>GraphicZila</span>
             </div>
           </div>
           <div className="row">

@@ -18,7 +18,7 @@ const CategoryList = () => {
             , link: "/search/background"
         },
         {
-            title: "Christmas 2022",
+            title: "Christmas 2025",
             image: "assets/images/Trending/4.jpeg"
 
             , link: "/search/background"

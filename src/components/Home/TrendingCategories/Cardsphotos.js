@@ -3,59 +3,59 @@ const Cardsphotos =() => {
 return [
 {
     id:"Freedom",
-    title:"Freedom Photos",
-    image:"assets/images/Trending/1.jpeg",
+    title:"Happy Navratri",
+    image:"assets/images/Trending/1.jpg",
     weburl:"/"
 },
 {
     id:"Recycle",
-    title :"Recycling",
-    image:"assets/images/Trending/2.jpeg",
+    title :"Happy Holi",
+    image:"assets/images/Trending/2.jpg",
     weburl:"/"
 
 },
 {
     id:"Flower",
-    title:"Flower Images",
-    image:"assets/images/Trending/3.jpeg",
+    title:"Vector Images",
+    image:"assets/images/Trending/3.jpg",
     weburl:"/"
 
 },
 {
     id:"Christmas",
-    title:"Christmas 2022",
-    image:"assets/images/Trending/4.jpeg",
+    title:"Christmas 2025",
+    image:"assets/images/Trending/4.jpg",
     weburl:"/"
 },
 {
     id:"Analog",
-    title:"Analog Photos",
-    image:"assets/images/Trending/5.jpeg",
+    title:"Wedding Photos",
+    image:"assets/images/Trending/5.jpg",
     weburl:"/"
 },
 {
     id:"Smile",
-    title:"Smile Images",
-    image:"assets/images/Trending/6.jpeg",
+    title:"Restorants Photos",
+    image:"assets/images/Trending/6.jpg",
     weburl:"/"
 
 },
 {
     id:"Body",
-    title:"Body Positive",
-    image:"assets/images/Trending/7.jpeg",
+    title:"Happy Birthday",
+    image:"assets/images/Trending/7.jpg",
     weburl:"/"
 },
 {
     id:"Selfies",
-    title:"Selfies Photos",
-    image:"assets/images/Trending/8.jpeg",
+    title:"Happy Diwali",
+    image:"assets/images/Trending/8.jpg",
     weburl:"/"
 },
 {
     id:"Tote-Bag",
-    title:"Tote Bag Mockup",
-    image:"assets/images/Trending/9.jpeg",
+    title:"Studio Setup",
+    image:"assets/images/Trending/9.jpg",
     weburl:"/"
 
 }

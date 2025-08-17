@@ -46,5 +46,7 @@ div,img{
 }
 
 #main-page-header {
-    background: linear-gradient(180deg, #2d2db0 -65%, #2c8cf4 110%);
+    // background: linear-gradient(180deg, #b02d52 -65%, #f42cd3 110%);
+    background: url(../../../public/assets/images/icons/texture.jpg) no-repeat;
+    background-size: cover;
 }
