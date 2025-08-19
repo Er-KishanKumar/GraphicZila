@@ -36,3 +36,8 @@ The main goal of GraphicZila is to provide a platform where users can easily fin
 ## Purpose
 
 The purpose of this repository is to serve as a learning exercise for frontend developers interested in understanding and implementing the design patterns and layout techniques. By building this frontend, developers can enhance their skills in HTML, CSS, and Bootstrap while gaining insights into responsive web design and UI/UX principles.
+
+Thank you for visiting my GraphicZila repository! I hope you find it informative and visually appealing.
+![Portfolio](public/assets/images/icons/sc1.png)
+![Portfolio](public/assets/images/icons/s4.png)
+![Portfolio](public/assets/images/icons/sc3.png)
